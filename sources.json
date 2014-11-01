@@ -1,0 +1,17 @@
+[
+    {"source": "app/assistants/stage-assistant.js"},
+    {"source": "app/utils/admob.js"},
+    {
+        "scenes": "about",
+        "source": "app/assistants/about-assistant.js"
+    },
+    {
+        "scenes": "main",
+        "source": "app/assistants/main-assistant.js"
+    },
+    {"source": "app/assistants/dialog-assistant.js"},
+    {
+        "scenes": "preferences",
+        "source": "app/assistants/preferences-assistant.js"
+    }
+]
