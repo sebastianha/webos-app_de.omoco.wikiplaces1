@@ -52,6 +52,6 @@ Explore your neighborhood by finding Wikipedia locations around you quickly. Jus
 
 ## License
 
-Copyright (c) 2014 Sebastian Hammerl
+Copyright (c) 2014 René Tünnermann, Sebastian Hammerl
 
 Licensed under the GPL License
